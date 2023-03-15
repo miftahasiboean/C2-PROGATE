@@ -279,3 +279,28 @@ input, textarea:hover{
   }
   
   /* akhir footer */
+
+  /* Responsive */
+
+/* Tablet */
+@media (max-width: 900px) {
+    .card{
+		width:100%;
+        margin-top: 10%;
+		
+    }
+}
+
+/* Mobile */
+@media (max-width: 670px) {
+   .card{ 
+		width:100%;   
+		margin-top: 10px;
+    }
+}
+@media (max-width:670px){
+	.form{
+		width:100%;
+		margin-top: 10px;
+	}
+}
