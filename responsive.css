@@ -1,5 +1,11 @@
  /* Responsive */
-
+@media (max-width: 1250px) {
+    .card {
+        width: 48%;
+        margin-right: 10px;
+        margin-bottom: 15px;
+    }
+}
 /* Tablet */
 @media (max-width: 1000px) {
     .card{
