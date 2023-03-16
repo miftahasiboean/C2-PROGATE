@@ -7,12 +7,10 @@ header {
     height: 65px;
     width: 100%;
     background-color: white;
-    /* Ubah position ke fixed, dan top ke 0 */
     position: fixed;
     top: 0;
-    
-    /* Ubah z-index ke 10 */
     z-index: 10;
+    opacity: 0.8;
   }
   
   .logo {
@@ -39,6 +37,7 @@ header {
     padding: 0 25px;
     color: black;
     display: block;
+    text-decoration: none;
   }
   /* Akhir header */
 
