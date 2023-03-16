@@ -89,6 +89,9 @@ header {
 }
 .btn-wrapper {
    margin: 20px 0;
+}
+.btn-wrapper a {
+    text-decoration: none;
 } 
 .signup {
    float: left;
@@ -110,10 +113,17 @@ header {
     max-width: 1170px;
     margin: 0 auto;
 }
+.top-product {
+    margin: 0;
+}
 .top-product h2{
     font-family: 'Kosugi', sans-serif;
     font-weight: normal;
-    font-size: 32px;
+    font-size: 40px;
+    letter-spacing: 3px;
+    padding-top: 60px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
 }
 .card {
     width: 24%;
@@ -142,7 +152,7 @@ header {
     text-align: center;
 }
 .picture img {
-    width: 200px;
+    width: 180px;
 }
 .button-detail {
     background-color: #46b6fe;
