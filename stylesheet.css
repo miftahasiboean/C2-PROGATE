@@ -129,7 +129,7 @@ header {
 }
 .card {
     width: 24%;
-    margin-right: 6px;
+    margin-right: 5px;
     display: inline-block;
     border: 1px solid rgba(179, 224, 227, 0.8);
     border-radius: 4px;
