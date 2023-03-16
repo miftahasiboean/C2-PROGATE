@@ -1,0 +1,46 @@
+ /* Responsive */
+
+/* Tablet */
+@media (max-width: 1000px) {
+    .card{
+		width:100%;
+        margin-top: 10%;
+		
+    }
+	.container h1 {
+		font-size: 40px;
+    }
+
+    .container h2 {
+        font-size: 14px;
+    }
+
+    .btn-wrapper a{
+        font-size: 14px;
+    }
+}
+
+
+/* Mobile */
+@media (max-width: 670px) {
+   .card{ 
+		width:100%;   
+		margin-top: 10px;
+    }
+    .form{
+		width:100%;
+		margin-top: 10px;
+	}
+
+    .container h1 {
+        font-size: 25px;
+    }
+
+    .container h2 {
+        font-size: 13px;
+    }
+
+    .btn-wrapper a {
+        font-size: 13px;
+    }
+}
