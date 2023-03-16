@@ -1,0 +1,54 @@
+ /* Responsive */
+
+/* Tablet */
+@media (max-width: 1000px) {
+    .card{
+		width:100%;
+        margin-top: 10px;
+		margin-bottom: 15px;
+    }
+	.container h1 {
+		font-size: 40px;
+    }
+
+    .top-wrapper h2 {
+        font-size: 14px;
+    }
+
+    .btn-wrapper a{
+        font-size: 14px;
+    }
+}
+
+
+/* Mobile */
+@media (max-width: 670px) {
+   .card{ 
+		width:100%;   
+		margin-top: 10px;
+        margin-bottom: 15px;
+    }
+    .form{
+		width:100%;
+		margin-top: 10px;
+	}
+    .btn {
+        width: 80%;
+        text-align: center;
+    }
+    .container h1 {
+        font-size: 25px;
+    }
+
+    .top-wrapper h2 {
+        font-size: 13px;
+    }
+
+    .btn-wrapper a {
+        font-size: 13px;
+    }
+
+    .top-product h2 {
+        font-size: 32px;
+    }
+}
