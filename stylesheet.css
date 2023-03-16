@@ -314,7 +314,9 @@ footer {
         list-style: none;
         padding-bottom: 10px;
       }
-  
+      .footer-list a {
+        color: #817a7a;
+      }
   /* akhir footer */
 
  
